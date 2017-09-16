@@ -122,7 +122,9 @@ p{
   font-family: 'Cormorant', serif;
   font-size:22px;
 }
-
+.jumbotron{
+  margin-top:-20px;
+}
 .jumbotron h1{
   text-align:center;
 }
@@ -152,12 +154,13 @@ p{
 .header p{
     text-align: center;
 }
-.navbar-inverse{
-  border-radius:0px;
-  position: fixed;
-  width:100%;
-  z-index:2;
-  background-color:rgba(0,0,0,0.7);
+.navbar{
+  margin-top:20px;
+  border-radius:0px !important;
+  position: fixed !important;
+  width:100% !important;
+  z-index:2 !important;
+  background-color:rgba(0,0,0,0.7) !important;
 }
 .navbar-inverse .navbar-nav>li>a{
   color:#fff !important;
