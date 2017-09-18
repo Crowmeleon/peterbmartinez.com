@@ -25,7 +25,7 @@
       <div class="col-md-6 pricing-table">
         <div class="price-title">
           <h3>Maintaining Existing Website</h3>
-          <p>Built from the Ground up following the standard of google, which are of course Fast Loading and Responsive.<br>(includes hosting and maintenance)</p>
+          <p>If you have a website you are currently needing updates and or optimizations, I can get that taken care of for you including hosting and unlimited revisions</p>
         </div>
         <div class="price-items">
           <p class="price">$40 <span class="price-text">/Month</span></p>
