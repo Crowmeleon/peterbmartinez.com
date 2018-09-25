@@ -23,10 +23,10 @@
         </div>
         <div class="col-md-6">
           <h2>Introduction</h2>
-          <p>My Name is Peter B. Martinez, I from Utah, U.S.A</p>
+          <p>My Name is Peter B. Martinez, I'm from Utah, U.S.A</p>
           <p>I have been building websites for roughly 6 years and live in Orem with my beautiful wife Andrea.</p>
-          <p>When I'm not working on client projects you can usually catch me studying latest trends on Front-end frameworks and or building simple web applications.</p>
-          <p>If you are wanting to have me build you a new website and or take a look at your current one, let me know I'll gladly take a look.</p>
+          <p>When I'm not working on client projects you can usually catch me studying the latest trends on Front-end frameworks and or building simple web applications.</p>
+          <p>If you are wanting to have me build you a new website and or take a look at your current one, let me know and I'll gladly take a look.</p>
           <h2>What I Do?</h2>
           <p>I am currently a Front-End Developer over at Banyan,  I work on the Front-end Components of their Web Application, although I do accept freelance work on the side.</p>
       </div>
